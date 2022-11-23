@@ -19,6 +19,9 @@ OBJETIVOS ESPECIFICOS
 
 •	CAPITULO 5: CIRCUITOS EN SERIE: 
 
+![CIRCUITO EN SERIE 1 1](https://user-images.githubusercontent.com/116814096/203653559-ef47ef8c-4028-4101-90c4-906437065e41.png)
+
+
 
 
 
