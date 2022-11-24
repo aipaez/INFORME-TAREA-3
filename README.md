@@ -25,14 +25,15 @@ OBJETIVOS ESPECIFICOS
  
  ![Circuito en serie 1 3](https://user-images.githubusercontent.com/116814096/203659284-6ca1515e-f39b-40ba-898c-a6b5ef28a06b.png)
 
-
-
-
-
-
+![CIRCUITO SERIE 1 4](https://user-images.githubusercontent.com/116814096/203845883-695d5371-ea09-4e5f-818a-48882194550f.png)
 
 •	CAPITULO 6: CIRCUITOS EN PARALELO:
 
+![CIRCUITO EN PARALELO 1 1](https://user-images.githubusercontent.com/116814096/203854897-51b2dd2a-08d4-4501-9f03-846539f33f7a.png)
+
+![CIRCUITO EN PARALELO 2 2](https://user-images.githubusercontent.com/116814096/203857159-2ae84e4f-1d84-424c-b45d-e9eba29482ab.png)
+
+![CIRCUITO EN PARALELO 2 3](https://user-images.githubusercontent.com/116814096/203859112-a38230f5-5744-467a-b733-5da932dafc79.png)
 
 # 3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
