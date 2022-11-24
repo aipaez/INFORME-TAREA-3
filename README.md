@@ -21,6 +21,12 @@ OBJETIVOS ESPECIFICOS
 
 ![CIRCUITO EN SERIE 1 1](https://user-images.githubusercontent.com/116814096/203653559-ef47ef8c-4028-4101-90c4-906437065e41.png)
 
+![CIRCUITO EN SERIE 1 2](https://user-images.githubusercontent.com/116814096/203656348-19dea05f-3077-4757-a48b-3939cdd2a518.png)
+ 
+ ![Circuito en serie 1 3](https://user-images.githubusercontent.com/116814096/203659284-6ca1515e-f39b-40ba-898c-a6b5ef28a06b.png)
+
+
+
 
 
 
